@@ -1,4 +1,3 @@
 # Candidate Management System
-#### by mallika srivastav 18SCSE1050007
-
-## Used Java and SQL
+## Tech Used Java and SQL
+#### By Mallika Srivastav 18SCSE1050007
